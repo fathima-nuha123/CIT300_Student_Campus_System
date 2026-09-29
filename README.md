@@ -53,6 +53,7 @@ Afra	23DA2-0992
 Aslam	23DA2-0771
 Nuha	23DA2-0988
 Aksha	23DA2-1103
+
 Responsibilities and Individual Contributions
 
 Member	Responsibility	Individual Contribution
